@@ -1,8 +1,5 @@
 # algorithms
 
-Three classes were developed.
-1 - Sorting
-2 - String
-3 - Matrix
+Three classes were developed (Sorting, String, Matrix)
 
 JUnit tests were added it. Can found inside the test folder.

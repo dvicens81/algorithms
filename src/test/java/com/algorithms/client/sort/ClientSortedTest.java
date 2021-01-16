@@ -1,4 +1,4 @@
-package com.algorithms.sort;
+package com.algorithms.client.sort;
 
 import static org.junit.Assert.assertEquals;
 
